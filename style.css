@@ -1,6 +1,7 @@
 .catalog_filters:nth-child(1) {
      display: flex;
      background-color: aquamarine;
+     margin-top: 22px;
      
 
 }
